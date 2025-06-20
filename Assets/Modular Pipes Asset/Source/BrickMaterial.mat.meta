@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c2aabeefcb12a942969edf4778da969
+timeCreated: 1491555986
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85778
+  packageName: Modular Pipes Pack
+  packageVersion: 1.0
+  assetPath: Assets/Modular Pipes Asset/Source/BrickMaterial.mat
+  uploadId: 172395

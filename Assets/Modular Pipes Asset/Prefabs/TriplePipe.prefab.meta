@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3258e43ebf5bfda4fbd22bd5d4d09d1a
+timeCreated: 1491555662
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85778
+  packageName: Modular Pipes Pack
+  packageVersion: 1.0
+  assetPath: Assets/Modular Pipes Asset/Prefabs/TriplePipe.prefab
+  uploadId: 172395

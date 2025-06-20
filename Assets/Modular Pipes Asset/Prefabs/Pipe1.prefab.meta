@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99a79bd1a0811914997889cf3154739b
+timeCreated: 1491555651
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85778
+  packageName: Modular Pipes Pack
+  packageVersion: 1.0
+  assetPath: Assets/Modular Pipes Asset/Prefabs/Pipe1.prefab
+  uploadId: 172395

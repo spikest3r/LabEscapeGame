@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 886ef8301a4778342891ec173b845399
+timeCreated: 1491555638
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85778
+  packageName: Modular Pipes Pack
+  packageVersion: 1.0
+  assetPath: Assets/Modular Pipes Asset/Prefabs/FoldedPipe.prefab
+  uploadId: 172395
